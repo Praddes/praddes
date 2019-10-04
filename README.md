@@ -1,21 +1,20 @@
-# Responsive Sidebar Navigation
+# PRADDES
 
-An easy-to-integrate side, vertical navigation, ideal for dashboards and admin areas.
+Plataforma integrada de gimnasios y acondicionamiento fisicos praddes.
 
-[Article on CodyHouse](https://codyhouse.co/gem/responsive-sidebar-navigation)
+Url ingresar al sitio alojado en github: https://praddes.github.io/praddes/
+Url ingresar al sitio alojado en firebase: https://praddes.firebaseapp.com/
 
-[Demo](http://codyhouse.co/demo/responsive-sidebar-navigation)
- 
-[License](https://codyhouse.co/license)
+## INGRESAR AL PANEL DEL ADMIN
+Usuario: admin
+Contraseña: admin
 
-## Dependencies
+## INGRESAR AL PANEL DEL USUARIO
+Usuario: user
+Contraseña: user
 
-This experiment is built upon the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
-
-Make sure to include both the style.scss and util.js files of the framework.
-
-## Credits
-
-Icons: [Nucleo Library](https://nucleoapp.com/)
-
-Diagonal movement plugin: Vanilla JS plugin based on [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)
+Universidad de la Amazonia
+Florencia Caquetá Colombia
+Ingenieria de Sistemas
+Programación web
+2019
