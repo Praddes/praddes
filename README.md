@@ -3,6 +3,7 @@
 Plataforma integrada de gimnasios y acondicionamiento fisicos praddes.
 
 Url ingresar al sitio alojado en github: https://praddes.github.io/praddes/
+
 Url ingresar al sitio alojado en firebase: https://praddes.firebaseapp.com/
 
 ## INGRESAR AL PANEL DEL ADMIN
