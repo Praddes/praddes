@@ -18,6 +18,8 @@ Usuario: user
 
 Contraseña: user
 
+----------------------------------------------
+
 Universidad de la Amazonia
 
 Florencia Caquetá Colombia
