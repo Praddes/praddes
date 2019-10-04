@@ -10,14 +10,20 @@ Descargar Documentación (Casos de uso y requisitos): https://github.com/Praddes
 
 ## INGRESAR AL PANEL DEL ADMIN
 Usuario: admin
+
 Contraseña: admin
 
 ## INGRESAR AL PANEL DEL USUARIO
 Usuario: user
+
 Contraseña: user
 
 Universidad de la Amazonia
+
 Florencia Caquetá Colombia
+
 Ingenieria de Sistemas
+
 Programación web
+
 2019
